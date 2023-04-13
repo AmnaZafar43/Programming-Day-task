@@ -1,0 +1,14 @@
+Rows	A	B	C	D	E	F
+Row1	*	*	X	X	X	X
+Row2	*	X	*	X	*	X
+Row3	*	*	X	X	*	X
+Row4	X	*	X	*	X	X
+Row5	*	X	*	X	*	*
+Row6	*	X	*	*	*	X
+Row7	X	*	*	*	X	X
+Row8	*	X	*	X	X	*
+Row9	X	*	X	X	*	X
+Row10	*	X	*	X	X	X
+Row11	*	*	X	*	X	*
+Row12	*	*	X	X	*	X
+Row13	*	*	*	*	X	*
